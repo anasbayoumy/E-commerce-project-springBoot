@@ -5,6 +5,8 @@
 ## llshabab
 ## File Structure ex.
 hena de htb2a t2semet l project bzabt, file structure
+![image](https://github.com/user-attachments/assets/db7b2a53-3c96-4b72-88bb-947d5ce05138)
+
 ![image](https://github.com/user-attachments/assets/10277d80-494d-4022-81ab-0b46591a2493)
 
 ## Component testing
