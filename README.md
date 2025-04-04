@@ -3,8 +3,24 @@
 - issue: everytime connection open close for access database 
 
 ## llshabab
+## File Structure ex.
 hena de htb2a t2semet l project bzabt, file structure
 ![image](https://github.com/user-attachments/assets/10277d80-494d-4022-81ab-0b46591a2493)
+
+## Component testing
+test -> controller files
+test -> service files
+
+## Integration
+lesa msh 3aref mmkn n3ady 3ala kolo? wala b junit bardo?
+
+## white box
+azon white box hyb2a classes so--------- hntest l products?
+
+## GUI
+test?? eh manual wala hn mv flow?
+
+## w eh l fr2 ben l GUI test wl App UI
 
 
 ## New Version ( what's new)
